@@ -59,7 +59,7 @@ Olá! Sou o **Luíz Eduardo Portella da Silva**, graduando em **Análise e Desen
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/Backend-7B2CBF?style=flat-square" alt="Backend"/>
       </p>
-      <a href="https://github.com/Luiz-ED-PS/sistema-bancario">🔍 Ver Repositório</a>
+      <a href="https://github.com/Luiz-ED-P-S/Banco/tree/master">🔍 Ver Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Automação de Iluminação e Irrigação</h3>
