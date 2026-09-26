@@ -25,7 +25,7 @@ Olá! Sou o **Luíz Eduardo Portella da Silva**, graduando em **Análise e Desen
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 - ☕ Especializando-me na linguagem **Java** para desenvolvimento Backend e regras de negócio.
-- 🤖 Criando automações e projetos de IoT utilizando **Arduino e C/C++**.
+- 🤖 Criando automações e projetos de IoT utilizando **Arduino**.
 - ⚡ Interessado em arquitetura de software, automação residencial e integração de dados.
 
 ---
@@ -36,15 +36,14 @@ Olá! Sou o **Luíz Eduardo Portella da Silva**, graduando em **Análise e Desen
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
 </p>
 
-#### **Ferramentas e Ecossistema**
+#### **Ferramentas e IDEs**
 <p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
 </p>
 
 ---
@@ -64,10 +63,9 @@ Olá! Sou o **Luíz Eduardo Portella da Silva**, graduando em **Análise e Desen
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Automação de Iluminação e Irrigação</h3>
-      <p>Sistema inteligente desenvolvido em Arduino utilizando sensor DHT22, umidade capacitiva de solo e bomba miniatura para monitoramento e controle de irrigação/iluminação.</p>
+      <p>Sistema inteligente desenvolvido em Arduino utilizando sensores e atuadores para monitoramento e controle automático de irrigação e iluminação.</p>
       <p>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino"/>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/IoT-9D4EDD?style=flat-square" alt="IoT"/>
       </p>
       <a href="https://github.com/Luiz-ED-PS/automacao-irrigacao-iluminacao">🔍 Ver Repositório</a>
